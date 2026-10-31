@@ -1,0 +1,38 @@
+JOB DESCRIPTION
+Role: Generative AI / LLM Engineer
+Employment Type: Full-time
+Experience: 1–4 years (exceptional entry-level candidates may be considered)
+Location: Hybrid / Remote
+
+ABOUT THE ROLE
+We are seeking a Generative AI / LLM Engineer to build, evaluate, and deploy reliable applications powered by large language models. The engineer will work with product and engineering teams to develop retrieval-augmented generation (RAG) systems, LLM-powered workflows, and production APIs.
+
+RESPONSIBILITIES
+- Build LLM applications using Python and modern model APIs or open-source models.
+- Design and implement RAG pipelines, including document ingestion, chunking, embeddings, retrieval, and reranking.
+- Work with vector databases such as FAISS, Chroma, Pinecone, or Weaviate.
+- Develop backend services and APIs using FastAPI or Flask.
+- Evaluate LLM output quality, groundedness, latency, and cost; create test datasets and evaluation pipelines.
+- Apply prompt engineering, structured output, tool/function calling, and agentic workflows where appropriate.
+- Use PyTorch and/or Hugging Face Transformers to work with models and embeddings.
+- Implement responsible AI practices, including privacy, safety checks, and protection against prompt injection.
+- Collaborate through Git, code reviews, documentation, and automated tests.
+
+REQUIRED QUALIFICATIONS
+- Strong Python programming and software engineering fundamentals.
+- Practical understanding of LLMs, transformers, tokenization, embeddings, and inference.
+- Hands-on experience with RAG and at least one vector database or vector search library.
+- Experience building REST APIs with FastAPI or Flask.
+- Familiarity with Hugging Face, OpenAI-compatible APIs, or comparable model-serving interfaces.
+- Understanding of SQL, Git, testing, and basic deployment concepts.
+- Ability to debug, evaluate, and improve LLM application quality.
+
+PREFERRED QUALIFICATIONS
+- Experience with LangChain, LlamaIndex, LangGraph, or similar orchestration tools.
+- Familiarity with Docker, cloud services (AWS/GCP/Azure), CI/CD, and observability.
+- Experience with reranking, hybrid search, fine-tuning (LoRA/QLoRA), or quantization.
+- Knowledge of LLM evaluation tools such as Ragas, DeepEval, or custom evaluation harnesses.
+- Familiarity with model serving, caching, and latency/cost optimization.
+
+SCREENING GUIDANCE
+Prioritize demonstrated project or work experience over keyword mentions alone. Treat equivalent tools and clearly transferable experience fairly. Do not infer skills, dates, degrees, or employment history that are not stated in a resume.
