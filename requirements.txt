@@ -1,0 +1,8 @@
+pandas
+streamlit
+pymupdf 
+sentence-transformers 
+scikit-learn 
+numpy
+matplotlib
+seaborn
