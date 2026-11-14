@@ -1,5 +1,4 @@
 # Resume-screening-System
-# Resume Screening System
 
 A hybrid, explainable resume ranking tool. It reads PDF resumes, compares them with a job description and produces a ranked shortlist in which every score can be traced back to a specific line of the resume.
 
