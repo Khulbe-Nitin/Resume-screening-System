@@ -4,7 +4,7 @@ A hybrid, explainable resume ranking tool. It reads PDF resumes, compares them w
 
 **Live demo:** https://resume-screening-system-fsjizphnzkmlmgjc86ycd6.streamlit.app/
 
-Built as a B.Tech (CSE) project at Guru Tegh Bahadur 4th Centenary Engineering College (GGSIPU), batch 2022-26.
+Built as a B.Tech (CSE) project at Guru Tegh Bahadur 4th Centenary Engineering College (GGSIPU), batch 2023-27.
 
 ---
 
