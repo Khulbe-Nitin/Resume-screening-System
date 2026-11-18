@@ -133,4 +133,4 @@ Python, Streamlit, PyMuPDF, Sentence-Transformers, scikit-learn, NumPy, Pandas, 
 
 ## Author
 
-Nitin Khulbe, B.Tech CSE, Guru Tegh Bahadur 4th Centenary Engineering College, New Delhi. Supervisor: Prof. Pardeep Singh (Dean Academics & HOD, CSE).
+Nitin Khulbe, B.Tech CSE, Guru Tegh Bahadur 4th Centenary Engineering College, New Delhi. Supervisor: Dr. Pardeep Singh (Dean Academics & HOD, CSE).
